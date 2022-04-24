@@ -1,7 +1,7 @@
 curl -SL "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe" -o SteamSetup.exe
-curl -SL "https://geeks3d.com/dl/get/10077" -o GPUTweakII-Version2350.exe"
+curl -SL "https://geeks3d.com/dl/get/10077" -o GPUTweakII-Version2350.exe
 curl -SL "https://discord.com/api/download?platform=win" -o DiscordSetup.exe
-curl -SL "https://download.cpuid.com/hwmonitor/hwmonitor_1.44.exe" -o "hwmonitor_1.44.exe"
+curl -SL "https://download.cpuid.com/hwmonitor/hwmonitor_1.44.exe" -o hwmonitor_1.44.exe
 curl -SL "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=245060_d3c52aa6bfa54d3ca74e617f18309292" -o jre-8u301-windows-x64.exe
 curl -SL "https://go.microsoft.com/fwlink/?LinkId=691209" -o MediaCreationTool21H1.exe
 curl -SL "https://us.download.nvidia.com/GFE/GFEClient/3.23.0.74/GeForce_Experience_v3.23.0.74.exe" -o GeForce_Experience_v3.23.0.74.exe
